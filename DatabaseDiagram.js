@@ -1,3 +1,5 @@
+
+//// check this out on https://dbdiagram.io
 //// -- LEVEL 1
 //// -- Tables and References
 
